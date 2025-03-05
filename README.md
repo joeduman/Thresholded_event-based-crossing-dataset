@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <b>Example setup for Inferencing using sample Thresholds ↓</b>
+  <b>Example setup for Inferencing using sample Threshold ↓</b>
 </p>
 
-<h1 align="center">Example setup for Inferencing with MobileNet-v1</h1>
+<h1 align="center">Inferencing with MobileNet-v1</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a98e20ad-80f7-4435-b0a0-7128e95459b4" alt="bbox_comparison_github" />
