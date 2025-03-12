@@ -16,6 +16,13 @@
   <img src="https://github.com/user-attachments/assets/a98e20ad-80f7-4435-b0a0-7128e95459b4" alt="bbox_comparison_github" />
 </p>
 
+# Citation
+Please consider citing our paper:
+
+------------------------------------------------------------------
+
+
+
 ### MobileNet_Thresh_20(.zip)/
 ### │── MobileNet_T20/            → Main MobileNet model files
 ### │── sample_all_thresholds/    → Sample data for all thresholds
