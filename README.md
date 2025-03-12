@@ -6,6 +6,14 @@
   <img src="https://github.com/user-attachments/assets/56aaab7a-6471-47ec-b400-c9a3c26b6673" alt="bbox_comparison_github" />
 </p>
 
+
+# Citation
+Please consider citing our paper:
+------------------------------------------------------------------
+
+
+------------------------------------------------------------------
+
 <p align="center">
   <b>Example setup for Inferencing using sample Threshold ↓</b>
 </p>
@@ -15,11 +23,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a98e20ad-80f7-4435-b0a0-7128e95459b4" alt="bbox_comparison_github" />
 </p>
-
-# Citation
-Please consider citing our paper:
-
-------------------------------------------------------------------
 
 
 
