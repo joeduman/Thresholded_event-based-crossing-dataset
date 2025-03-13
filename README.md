@@ -24,7 +24,17 @@ Please consider citing our paper:
   <img src="https://github.com/user-attachments/assets/a98e20ad-80f7-4435-b0a0-7128e95459b4" alt="bbox_comparison_github" />
 </p>
 
+# First steps (setting up tensorflow SSD)
+```
+git clone https://github.com/tensorflow/models.git
+cd models/research
+protoc -I=./ --python_out=./ ./object_detection/protos/*.proto
+pip install .
 
+or if 'pip install .' doesnt work
+cd object_detection/packages/tf2 (or tf1 depending on your tensorflow version)
+pip install .
+```
 
 ### MobileNet_Thresh_20(.zip)/
 ### │── MobileNet_T20/            → Main MobileNet model files
