@@ -10,8 +10,16 @@
 # Citation
 Please consider citing our paper:
 ------------------------------------------------------------------
-
-
+@ARTICLE{mule2025EBCD,
+  author={Mulé, Joey and Challagundla, Dhandeep and Saini, Rachit and Islam, Riadul},
+  journal={IEEE Data Descriptions}, 
+  title={Descriptor: Event-Based Crossing Dataset (EBCD)}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Event detection;Vehicle dynamics;Pedestrians;Real-time systems;Computer architecture;Cameras;Voltage control;Neuromorphics;Convolutional neural networks;Computational efficiency;Pedestrian detection;Vehicle detection;dynamic vision sensing (DVS);sparse vision;convolutional neural network (CNN);Pedestrian crossing dataset},
+  doi={10.1109/IEEEDATA.2025.3561760}}
 ------------------------------------------------------------------
 
 <p align="center">
